@@ -1,0 +1,3 @@
+Learn about OpenCv
+Figure out edge detection for crop tif file usage
+
