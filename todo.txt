@@ -1,3 +1,6 @@
-Learn about OpenCv
-Figure out edge detection for crop tif file usage
+Crop images correctly
+Obtain bounding box from crop boundaries
+Start training crop fields
+Explore CNN if other methods fail.
+
 
