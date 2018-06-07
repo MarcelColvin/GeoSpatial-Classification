@@ -1,2 +1,2 @@
 # GeoSpatial-Classification
-![Alt text](/Photos/PredictedCrop.jpg)
+![Alt text](Photos/PredictedCrop.jpeg)
