@@ -1,5 +1,5 @@
 # GeoSpatial-Classification
-<a href = "http://www.rpbradystadavis.github.io">Crop Classification Report</a>
+<a href = "https://rpbradystadavis.github.io/">Crop Classification Report</a>
 ![Alt text](Photos/PredictedCrop.jpeg)
 
 **How to Read this Github:** 
